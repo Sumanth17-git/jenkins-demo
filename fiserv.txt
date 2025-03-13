@@ -1,0 +1,4 @@
+Now you have setup the API token . Let’s go to Dynatrace Automation workflow.
+1.  Allow Jenkins for outbound connections
+1)	Open the Settings app and go to Preferences > Limit Outbound Connections.
+2)	Select Add item and add the domain of your publicly accessible Jenkins instance.
