@@ -1,0 +1,5 @@
+1.	Go to your repository on GitHub: GitHub Repo
+2.	Navigate to the Pull Requests tab.
+3.	Click "New Pull Request".
+4.	Select feature-branch as the source and main as the target.
+5.	Add a description and click "Create Pull Request
